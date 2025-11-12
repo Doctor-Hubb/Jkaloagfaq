@@ -5,7 +5,7 @@ import time
 import asyncio
 
 # تنظیمات
-BOT_TOKEN = "8390382439:AAGoEVE-HnhtmurcDPnnJ3ecAObYViQdKis"
+BOT_TOKEN = ""
 ADMIN_USER_ID = 6674558636
 
 logging.basicConfig(
